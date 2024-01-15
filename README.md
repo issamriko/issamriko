@@ -8,8 +8,9 @@
 
 - 👋 Hi, I’m @issam_riko
 - 👀 I’m interested in Mobile Apps 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning java script
 - 📫 How to reach me **issamriko9@gmail.com**
+  
 
 
 
@@ -24,6 +25,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,firebase,vscode,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,firebase,vscode,flutter,dart,html,css" />
   </a>
 </p>
