@@ -30,6 +30,6 @@
 <h3>- Tools : </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,firebase,vscode,flutter,dart,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,firebase,vscode,flutter,dart,html,css,js,php" />
   </a>
 </p>
